@@ -1,0 +1,48 @@
+#con-home{
+    padding-top: 10vh;
+}
+@media (min-width: 0px) and  (max-width: 400px)
+{
+    #con-home{
+        padding-top: 0vh;
+    }
+}
+@media (min-width: 100.1px) and  (max-width: 200px)
+{
+    #img-home{
+        min-width: 50px ;
+        max-width: 130px ;
+    }
+}
+@media (min-width: 350px) and  (max-width: 400px)
+{
+    #img-home{
+        margin-top: 10vh;
+    }
+}
+
+@media (min-width: 400px) and  (max-width: 450px)
+{
+    #img-home{
+        margin-top: 10vh;
+    }
+}
+@media (min-height: 0px) and  (max-width: 400px)
+{
+    #con-home{
+       padding-top: 10vh;
+    }
+}
+@media (min-width: 0) and  (max-width: 160.1px)
+{   
+    #hed{
+        font-size: 24px;
+    }
+    .navbar-brand{
+      font-size: 15px;
+    }
+    #img-home{
+       
+        max-width: 100px ;
+    }
+}
